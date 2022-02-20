@@ -1,0 +1,10 @@
+/Users/yangbin/Documents/Data/Code/Rust/myProject/snake/target/debug/deps/memoffset-dd3c24334d578e91.rmeta: /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/lib.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/raw_field.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/offset_of.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/span_of.rs
+
+/Users/yangbin/Documents/Data/Code/Rust/myProject/snake/target/debug/deps/libmemoffset-dd3c24334d578e91.rlib: /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/lib.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/raw_field.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/offset_of.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/span_of.rs
+
+/Users/yangbin/Documents/Data/Code/Rust/myProject/snake/target/debug/deps/memoffset-dd3c24334d578e91.d: /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/lib.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/raw_field.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/offset_of.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/span_of.rs
+
+/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/lib.rs:
+/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/raw_field.rs:
+/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/offset_of.rs:
+/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/memoffset-0.6.5/src/span_of.rs:

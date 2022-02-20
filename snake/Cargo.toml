@@ -1,0 +1,13 @@
+[package]
+name = "snake"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# 随机数，用于处理apple的随机数，星号表示使用该依赖包的最新版本
+rand = "0.8.4"
+# 活塞窗口，这将允许我们使用UI渲染元素以及处理一些游戏逻辑
+piston_window = "0.121.0"
+
