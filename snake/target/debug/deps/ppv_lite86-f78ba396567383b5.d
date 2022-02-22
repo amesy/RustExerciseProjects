@@ -1,9 +1,0 @@
-/Users/yangbin/Documents/Data/Code/Rust/myProject/snake/target/debug/deps/ppv_lite86-f78ba396567383b5.rmeta: /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/x86_64/mod.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/x86_64/sse2.rs
-
-/Users/yangbin/Documents/Data/Code/Rust/myProject/snake/target/debug/deps/ppv_lite86-f78ba396567383b5.d: /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/x86_64/mod.rs /Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/x86_64/sse2.rs
-
-/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs:
-/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs:
-/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs:
-/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/x86_64/mod.rs:
-/Users/yangbin/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/x86_64/sse2.rs:
